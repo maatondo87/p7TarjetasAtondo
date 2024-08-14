@@ -11,6 +11,7 @@ https://codesinsider.com/flutter-appbar-example-tutorial/
 ##color de la tarjeta
 ![image](https://github.com/user-attachments/assets/b644ccf1-7313-4bef-ab76-a626f08ff370)
 
+![image](https://github.com/user-attachments/assets/1d3ed971-c603-42ac-90db-968a562894b9)
 
 
 ##color de la tarjeta y texto
