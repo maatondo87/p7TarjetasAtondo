@@ -9,7 +9,11 @@ https://codesinsider.com/flutter-appbar-example-tutorial/
 
 
 ##color de la tarjeta
-![image](https://github.com/user-attachments/assets/7dea3c8f-a961-4066-80e5-e7f6a90531d7)
+![image](https://github.com/user-attachments/assets/b644ccf1-7313-4bef-ab76-a626f08ff370)
+
 
 
 ##color de la tarjeta y texto
+![image](https://github.com/user-attachments/assets/54ee9c78-b5f8-4ed9-92a5-9d5524f1a385)
+
+##Bordes de la tarjeta
