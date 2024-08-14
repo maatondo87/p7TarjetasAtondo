@@ -17,3 +17,8 @@ https://codesinsider.com/flutter-appbar-example-tutorial/
 ![image](https://github.com/user-attachments/assets/54ee9c78-b5f8-4ed9-92a5-9d5524f1a385)
 
 ##Bordes de la tarjeta
+![image](https://github.com/user-attachments/assets/dcdea86d-4cf2-4805-8ded-bfa96016a548)
+
+
+##Logo Tarjeta
+![image](https://github.com/user-attachments/assets/385ed5cf-5787-4349-afae-449df069b630)
